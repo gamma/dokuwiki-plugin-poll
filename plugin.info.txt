@@ -1,0 +1,9 @@
+# PLUGIN INFO - DO NOT EDIT!
+
+base    poll
+author  Gina Häußge, Michael Klier, Esther Brunner, i-net software
+email   dokuwiki@chimeric.de
+date    2014-01-31
+name    Poll Plugin
+desc    allows to create simple polls
+url     http://wiki.splitbrain.org/plugin:poll

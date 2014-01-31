@@ -1,5 +1,6 @@
 div.dokuwiki table.blind {
   border: 0;
+  width: 100%;
 }
 
 div.dokuwiki table.blind td {
@@ -10,7 +11,6 @@ div.dokuwiki div.poll_bar {
   border: 1px solid __dark__;
   padding: 0;
   height: 12px;
-  width: 200px;
 }
 
 div.dokuwiki div.poll_full {
